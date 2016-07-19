@@ -1,0 +1,2 @@
+SERVER_ADDR: "0.0.0.0:7007"
+MOCK_FILE: "./mock.dat"
